@@ -1,0 +1,50 @@
+[
+    {
+        "code": "123456789",
+        "uid": "A123456789",
+        "ticketInfo":[
+            {
+                "date" : "2021-06-01",
+                "ticketsType" : "standard",
+                "ticketsCount" : 1,
+                "start" : "0110",
+                "end" : "0190",
+                "seats": ["0413A"]
+            },
+            {
+                "date" : "2021-06-01",
+                "ticketsType" : "standard",
+                "ticketsCount" : 1,
+                "start" : "0190",
+                "end" : "0110",
+                "seats": ["0413A"]
+            }
+        ],
+        "payDeadline" : "2021-05-25",
+        "payment" : 550
+    },
+    {
+        "code": "123455679",
+        "uid": "C123456789",
+        "ticketInfo":[
+            {
+                "date" : "2021-06-01",
+                "ticketsType" : "business",
+                "ticketsCount" : 1,
+                "start" : "1070",
+                "end" : "0990",
+                "seats": ["0611C"]
+            },
+            {
+                "date" : "2021-06-01",
+                "ticketsType" : "business",
+                "ticketsCount" : 1,
+                "start" : "0990",
+                "end" : "1070",
+                "seats": ["0617A"]
+            }
+        ],
+        "payDeadline" : "2021-05-25",
+        "payment" : 800
+    }
+]
